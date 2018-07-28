@@ -363,7 +363,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f00a94f</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -375,7 +375,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f00a94f</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -1441,7 +1441,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f28c673</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -1453,7 +1453,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f28c673</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -2937,7 +2937,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f127529</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -2949,7 +2949,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f127529</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -4095,7 +4095,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f10792c</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -4107,7 +4107,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f10792c</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -4183,7 +4183,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f049c46</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -4195,7 +4195,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f049c46</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -4535,7 +4535,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7fcafddb</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -4547,7 +4547,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7fcafddb</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -5114,7 +5114,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7fb1face</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -5126,7 +5126,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7fb1face</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -5466,7 +5466,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f52e396</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -5478,7 +5478,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7f52e396</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
