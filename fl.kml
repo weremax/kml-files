@@ -5026,7 +5026,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7fa6f8c8</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
@@ -5038,7 +5038,7 @@
 				<width>1</width>
 			</LineStyle>
 			<PolyStyle>
-				<color>7fa6f8c8</color>
+				<color>5014F0FF</color>
 			</PolyStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
