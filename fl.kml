@@ -873,6 +873,22 @@
 				<styleUrl>#Style307-polygon-15-hover</styleUrl>
 			</Pair>
 		</StyleMap>
+		<Region>
+			<LatLonAltBox>
+				<north>50.625</north>
+				<south>45</south>
+				<east>28.125</east>
+				<west>22.5</west>
+				<minAltitude>10</minAltitude>
+				<maxAltitude>50</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>1024</maxLodPixels>
+				<minFadeExtent>128</minFadeExtent>
+				<maxFadeExtent>128</maxFadeExtent>
+			</Lod>
+		</Region> 
 		<Placemark>
 			<name>Duval</name>
 			<snippet></snippet>
