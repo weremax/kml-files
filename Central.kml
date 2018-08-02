@@ -4,7 +4,7 @@
     <name>Central</name>
     <Style id="poly-FFF014-1000-80-normal">
       <LineStyle>
-        <color>50143CFF</color>
+        <color>ff146eff</color>
         <width>1</width>
       </LineStyle>
       <PolyStyle>
@@ -15,7 +15,7 @@
     </Style>
     <Style id="poly-FFF014-1000-80-highlight">
       <LineStyle>
-        <color>50143CFF</color>
+        <color>ff146eff</color>
         <width>1.5</width>
       </LineStyle>
       <PolyStyle>
